@@ -9,5 +9,6 @@
   "homepage": "https://github.com/Jakeschincariol/instagram-agent-skill",
   "repository": "https://github.com/Jakeschincariol/instagram-agent-skill",
   "license": "MIT",
+  "skills": "./.claude/skills/",
   "keywords": ["instagram", "reels", "content", "writing", "humanizer", "social", "marketing"]
 }
